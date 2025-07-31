@@ -9,8 +9,8 @@ int main(){
         sum += arr[i];
     }
     int avg = sum/n;
-    cout<<sum;
-    cout<<avg;
+    cout<<sum<<"\n";
+    cout<<avg<<"\n";
     return 0;
 
 }
